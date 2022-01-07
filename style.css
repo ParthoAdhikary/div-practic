@@ -1,0 +1,207 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.section1{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 50px;
+    justify-content: space-around;
+}
+.head-line{
+    font-family: 'Yeseva One', cursive;
+    border-left: 5px solid seagreen;
+    padding-left: 10px;
+    font-size: 35px;
+    border-radius: 5px;
+}
+.head-line h1{
+    margin: 20px;
+}
+.image img{
+    width: 500px;
+    padding-left: 100px;
+    margin-bottom: 50px;
+}
+.left-sight{
+    margin-top: 150px;
+}
+.button{
+    padding: 10px 30px;
+    background-image: linear-gradient(to right,#7D831D, #206F75);
+}
+.button :hover{
+    color: blue;
+    background: white;
+}
+.pragraph{
+    font-size: 24px;
+}
+.h4font{
+    font-size: 35px;
+    margin: 10px;
+}
+.color-olive{
+    color: olive;
+}
+.color-206F75{
+    color: #206F75;
+}
+.button a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.section2 h2{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.steps{
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+#step1{
+    width: 400px;
+    padding: 30px 30px 20px 50px;
+    background: rgba(72, 107, 212, 0.589);
+    border-radius: 30px;
+}
+#step2{
+    width: 400px;
+    padding: 30px 30px 20px 50px;
+    background: rgba(99, 197, 141, 0.404);
+    border-radius: 30px;
+}
+#step3{
+    width: 400px;
+    padding: 30px 30px 20px 50px;
+    background: rgba(48, 192, 192, 0.568);
+    border-radius: 30px;
+}
+.section3{
+    display: flex;
+    width: 80%;
+    margin: 10% 10%;
+     
+}
+.sec3img{
+    width: 1200px;
+    border-radius: 30px;
+}
+.sec3img img{
+    width: 100%;
+}
+.sec3pra{
+    width: 80%px;
+    text-align: justify;
+    margin-left: 200px;
+}
+.sec3pra h3{
+    font-size: 50px;
+    color: #206F75;
+}
+.section4{
+    display: flex;
+    width: 80%;
+    margin: 10% 10%;
+}
+.top{
+    text-align: center;
+    margin: 50px;
+    font-size: 40px;
+    color: #206F75;
+}
+.section5{
+    display: flex;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.sec-div1{
+    width: 750px;
+    margin: 20px;
+    margin-left: 100px;
+}
+.sec-div2{
+    width: 700px;
+    background-color: #81DADA;
+    margin: 20px;
+    margin-left: 50px;
+    margin-right: 100px;
+    border-radius: 30px;
+    box-shadow:1px 2px 20px 10px dimgray;
+}
+.sec-div2-child{
+    display: flex;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+#child-div1{
+    background-color: #96A4E3;
+    margin: 0;
+    border-radius: 30px;
+    box-shadow:1px 2px 20px 10px dimgray;
+}
+#child-div2{
+    background-color: #BBE9D2;
+    margin: 0;
+    border-radius: 30px;
+    box-shadow:1px 2px 20px 10px dimgray;
+}
+.candidate{
+    display: flex;
+    margin-bottom: 10px;
+    margin-top: 0;
+    padding: 30px;
+}
+.furturistic{
+    display: flex;
+    margin-top: 20px;
+    padding: 30px;
+}
+.sec4img{
+    width: 1200px;
+    border-radius: 30px;
+}
+.sec4img img{
+    width: 100%;
+}
+.sec4pra{
+    width: 80%px;
+    text-align: justify;
+    margin-right: 200px;
+}
+.sec4pra h3{
+    font-size: 50px;
+    color: #206F75;
+}
+.icon img{
+    width: 200px;
+}
+footer{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    color: white;
+}
+.footer{
+    padding: 1px;
+}
+.footer h1{
+    font-family: 'Pattaya', sans-serif;
+    font-size: 40px;
+}
+.footer h1 span{
+    color: yellow;
+}
+.footer p{
+    color: slategray;
+}
